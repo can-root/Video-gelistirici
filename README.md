@@ -13,5 +13,6 @@ Python3:https://www.python.org/downloads/
 FFmpeg:https://ffmpeg.org/download.html
 
 
+![resim](https://github.com/user-attachments/assets/274ff098-3725-4850-8ebb-31370c229ea0)
 
 
